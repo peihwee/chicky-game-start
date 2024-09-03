@@ -1,0 +1,27 @@
+{
+    "frames": {
+        "rollSequence0000.png": {
+            "frame": { "x": 0, "y": 0, "w": 48, "h": 48 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+            "sourceSize": { "w": 48, "h": 48}
+        },
+        "rollSequence0001.png": {
+            "frame": { "x": 48, "y": 0, "w": 48, "h": 48 },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 48, "h": 48 },
+            "sourceSize": { "w": 48, "h": 48 }
+        }
+    },
+    "meta": {
+        "app": "http://www.texturepacker.com",
+        "version": "1.0",
+        "image": "chicken_run.png",
+        "format": "RGBA8888",
+        "size": { "w": 96, "h": 48 },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:2f213a6b451f9f5719773418dfe80ae8$"
+    }
+}

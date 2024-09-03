@@ -1,0 +1,54 @@
+/* CSS Design by Mr Siah Peih Wee */
+/* School of Computing, Singapore Polytechnic */
+html, body, h1, p, div, canvas
+{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    font-family: "Pixelify Sans", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px 0;
+}
+
+body > div
+{
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+#game
+{
+    padding: 20px;
+}
+
+canvas
+{
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    max-width: 800px;
+}
+
+.smaller
+{
+    font-size: 0.8em;
+}
+
+b{
+    color: #1099bb;
+}
+
+span
+{
+    color: lightblue;
+}
